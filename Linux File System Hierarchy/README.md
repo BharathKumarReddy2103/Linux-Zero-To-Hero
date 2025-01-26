@@ -6,6 +6,7 @@ The Linux file system is a structured method used by the operating system to sto
 
 The Linux file system is hierarchical, starting with the root directory (/) at the top. All files and directories branch from this root directory.
 
+```bash
 <linux_file_system_hierarchy>/
 ├── / (Root Directory)
 ├── boot/
@@ -46,7 +47,7 @@ The Linux file system is hierarchical, starting with the root directory (/) at t
 │   └── system_libraries/
 ├── srv/
 │   └── service_data_directory/
-
+```
 
 **Importance of the Linux File System for DevOps**
 
