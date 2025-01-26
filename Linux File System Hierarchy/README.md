@@ -71,7 +71,7 @@ The Linux file system is hierarchical, starting with the root directory (/) at t
 
 **2./boot (Boot Loader Files)**
 
-    Contains files required for booting the system, such as the kernel (vmlinuz) and bootloader files like GRUB.
+     Contains files required for booting the system, such as the kernel (vmlinuz) and bootloader files like GRUB.
     
 **3./etc (Configuration Files)**
 
