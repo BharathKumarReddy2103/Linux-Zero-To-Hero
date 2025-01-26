@@ -8,45 +8,45 @@ The Linux file system is hierarchical, starting with the root directory (/) at t
 
 ```bash
 <linux_file_system_hierarchy>/
-├── / (Root Directory)
-├── boot/
-│   └── boot_loader_files/
-├── etc/
-│   └── configuration_files/
-├── home/
-│   └── user_home_directories/
-├── root/
-│   └── root_home_directory/
-├── opt/
-│   └── third_party_applications/
-├── dev/
-│   └── device_files/
-├── var/
-│   └── variable_files/
-├── bin/
-│   └── user_binaries/
-├── sbin/
-│   └── system_binaries/
-├── usr/
-│   └── user_applications/
-├── proc/
-│   └── process_information/
-├── mnt/
-│   └── mount_directory/
-├── sys/
-│   └── virtual_file_system/
-├── media/
-│   └── removable_devices/
-├── run/
-│   └── temporary_file_system/
-├── tmp/
-│   └── temporary_files/
-├── lost+found/
-│   └── recover_broken_files/
-├── lib/
-│   └── system_libraries/
-├── srv/
-│   └── service_data_directory/
+└── /
+    ├── boot/
+    │   └── boot_loader_files/
+    ├── etc/
+    │   └── configuration_files/
+    ├── home/
+    │   └── user_home_directories/
+    ├── root/
+    │   └── root_home_directory/
+    ├── opt/
+    │   └── third_party_applications/
+    ├── dev/
+    │   └── device_files/
+    ├── var/
+    │   └── variable_files/
+    ├── bin/
+    │   └── user_binaries/
+    ├── sbin/
+    │   └── system_binaries/
+    ├── usr/
+    │   └── user_applications/
+    ├── proc/
+    │   └── process_information/
+    ├── mnt/
+    │   └── mount_directory/
+    ├── sys/
+    │   └── virtual_file_system/
+    ├── media/
+    │   └── removable_devices/
+    ├── run/
+    │   └── temporary_file_system/
+    ├── tmp/
+    │   └── temporary_files/
+    ├── lost+found/
+    │   └── recover_broken_files/
+    ├── lib/
+    │   └── system_libraries/
+    └── srv/
+        └── service_data_directory/
 ```
 
 **Importance of the Linux File System for DevOps**
