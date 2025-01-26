@@ -51,12 +51,6 @@ We welcome contributions to make this repository a richer resource for the DevOp
 
 ---
 
-## License  
-
-This repository is licensed under the [MIT License](LICENSE).  
-
----
-
 ## Connect with the Creator  
 
 Created and maintained by **Bharath Kumar Reddy**, a Senior DevOps Engineer passionate about Linux, DevOps, and Cloud technologies. Connect with me on [LinkedIn](https://www.linkedin.com/in/bharath-kumar-reddy2103/) for more updates and insights.  
