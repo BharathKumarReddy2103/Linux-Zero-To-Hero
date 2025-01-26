@@ -66,83 +66,83 @@ The Linux file system is hierarchical, starting with the root directory (/) at t
 
 **1./ (Root Directory)**
 
-  The starting point of the Linux file system. All other directories are mounted under this. Only the root user has full 
-  permissions for critical modifications here.
+The starting point of the Linux file system. All other directories are mounted under this. Only the root user has full 
+permissions for critical modifications here.
 
 **2./boot (Boot Loader Files)**
 
-     Contains files required for booting the system, such as the kernel (vmlinuz) and bootloader files like GRUB.
+Contains files required for booting the system, such as the kernel (vmlinuz) and bootloader files like GRUB.
     
 **3./etc (Configuration Files)**
 
-    Stores system-wide configuration files for applications and services. Examples include /etc/hosts and /etc/passwd.
+Stores system-wide configuration files for applications and services. Examples include /etc/hosts and /etc/passwd.
     
 **4./home (User Home Directories)**
 
-    Contains personal directories for regular users. Each user's files, settings, and data are stored in their respective 
-    /home/username folder.
+Contains personal directories for regular users. Each user's files, settings, and data are stored in their respective 
+/home/username folder.
 
 **5./root (Root Home Directory)**
 
-    The home directory for the root (superuser). It is separate from /home to ensure the root user’s data is secure.
+The home directory for the root (superuser). It is separate from /home to ensure the root user’s data is secure.
 
 **6./opt (Third-Party Applications)**
 
-    Holds optional software and add-on packages that are not part of the default installation.
+Holds optional software and add-on packages that are not part of the default installation.
     
 **7./dev (Device Files)**
 
-    Contains special files that represent hardware devices (e.g., /dev/sda for a disk, /dev/tty for terminals).
+Contains special files that represent hardware devices (e.g., /dev/sda for a disk, /dev/tty for terminals).
     
 **8./var (Variable Files)**
 
-    Stores files that change frequently, such as logs (/var/log), mail (/var/mail), and temporary data.
+Stores files that change frequently, such as logs (/var/log), mail (/var/mail), and temporary data.
 
 **9./bin (User Binaries)**
 
-     Includes essential command-line programs like ls, cat, and cp, needed for all users.
+Includes essential command-line programs like ls, cat, and cp, needed for all users.
      
 **10./sbin (System Binaries)**
 
-  Contains administrative commands, such as ifconfig and reboot, used by the system administrator.
+Contains administrative commands, such as ifconfig and reboot, used by the system administrator.
   
 **11./usr (User Applications)**
 
-    Stores user programs and libraries. It includes subdirectories like /usr/bin (binaries), /usr/lib (libraries), and 
-    /usr/share (shared files).
+Stores user programs and libraries. It includes subdirectories like /usr/bin (binaries), /usr/lib (libraries), and 
+/usr/share (shared files).
 
 **12./proc (Process Information)**
 
-     A virtual file system providing information about system processes and kernel parameters. For example, /proc/cpuinfo 
-     shows CPU details.
+A virtual file system providing information about system processes and kernel parameters. For example, /proc/cpuinfo 
+shows CPU details.
      
 **13./mnt (Mount Directory)**
 
-     A temporary mount point for external storage, such as USB drives or CD-ROMs.
+A temporary mount point for external storage, such as USB drives or CD-ROMs.
 
 **14./sys (Virtual File System)**
 
-     A virtual file system providing hardware and device information managed by the Linux kernel.
+A virtual file system providing hardware and device information managed by the Linux kernel.
      
 **15. /media (Removable Devices)**
 
-      Mount point for removable media like USB drives and DVDs. Typically, each media device gets its own subdirectory.
+Mount point for removable media like USB drives and DVDs. Typically, each media device gets its own subdirectory.
       
 **16./run (Temporary File System)**
 
-     Stores runtime data for system processes since the system booted. The contents are cleared on reboot.
+Stores runtime data for system processes since the system booted. The contents are cleared on reboot.
      
 **17./tmp (Temporary Files)**
 
-     Used for temporary file storage. Files stored here are often deleted when the system reboots.
+Used for temporary file storage. Files stored here are often deleted when the system reboots.
 
 **18./lost+found (Recover Broken Files)**
 
-     Contains files recovered after file system corruption. Each partition has its own lost+found directory.
+Contains files recovered after file system corruption. Each partition has its own lost+found directory.
 
 **19./lib (System Libraries)**
 
-     Stores essential shared libraries required for basic system programs. For example, /lib/libc.so.6.
+Stores essential shared libraries required for basic system programs. For example, /lib/libc.so.6.
      
  **20. /srv (Service Data Directory)**
 
