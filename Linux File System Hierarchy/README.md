@@ -149,4 +149,4 @@ Stores essential shared libraries required for basic system programs. For exampl
 
 Holds data for services like web servers and FTP servers. For instance, a web server might store files in /srv/www.
 
-This knowledge helps DevOps engineers manage Linux servers, troubleshoot issues, and configure systems efficiently.
+Understanding the Linux file system hierarchy helps DevOps engineers manage Linux servers, troubleshoot issues, and configure systems efficiently.
