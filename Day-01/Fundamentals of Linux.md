@@ -1,4 +1,4 @@
-# Linux Fundamentals - Zero to Hero: Episode 1
+# Linux Fundamentals:
 
 Welcome to the first episode of the **Linux Zero to Hero** series. This guide is designed for everyone—whether you're a beginner in IT, a developer, or a DevOps engineer—who wants to master Linux from the ground up. In this episode, we'll cover the **core fundamentals of Linux**, setting the foundation for the rest of the series.
 
