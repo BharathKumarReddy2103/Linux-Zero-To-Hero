@@ -1,6 +1,6 @@
-# Linux for DevOps  
+# Linux Zero To Hero  
 
-Welcome to the **LinuxForDevOps** repository. This repository is dedicated to helping DevOps Engineers master Linux concepts, commands, and tools that are critical for modern DevOps workflows. Whether you are automating deployments, managing servers, or debugging issues, this repository will serve as a one-stop resource for everything Linux in the context of DevOps.  
+Welcome to the **Linux Zero To Hero** repository. This repository is dedicated to helping DevOps Engineers master Linux concepts, commands, and tools that are critical for modern DevOps workflows. Whether you are automating deployments, managing servers, or debugging issues, this repository will serve as a one-stop resource for everything Linux in the context of DevOps.  
 
 ---
 
